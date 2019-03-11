@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">US Dictionary App</string>
+
+    <string name="edit_text_string">search your word</string>
+    <string name="button_text">find</string>
+    <string name="todo">TODO</string>
+</resources>
